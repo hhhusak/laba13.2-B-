@@ -1,0 +1,3 @@
+/Users/vitalygusak/CLionProjects/laba13.2(B)/cmake-build-debug/CMakeFiles/laba13_2_B_.dir
+/Users/vitalygusak/CLionProjects/laba13.2(B)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vitalygusak/CLionProjects/laba13.2(B)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
